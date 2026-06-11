@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'package:weatherapp/models/weather_model.dart';
 
 class WeatherServices {
-  final String apiKey = '9e75d8e79f0fb5b52522288c0641938e';
+  final String apiKey = '';
 
   Future<Weather> featchWeather(String cityName) async {
     final url = Uri.parse(
