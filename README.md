@@ -37,4 +37,7 @@ The application fetches real-time weather data and presents it in an easy-to-und
 - Material Design
 
 ---
-
+## 🚀 How to Run (Frontend)
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/Devesh517/WeatherApp
